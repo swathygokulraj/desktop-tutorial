@@ -204,10 +204,17 @@ EMI
 ---
 ## 📊 DASHBOARD PREVIEW
 
-[Bank Customer & Transaction Analysis](overview.png)
-[Bank Customer & Transaction Analysis](customer analysis.png)
-[Bank Customer & Transaction Analysis](transaction analysis.png)
-[Bank Customer & Transaction Analysis](loan & EMI analysis.png)
+## 🏠 Overview
+![Overview](overview.png)
+
+## 👤 Customer Analysis
+![Customer Analysis](customer.png)
+
+## 💳 Transaction Analysis
+![Transaction Analysis](transaction.png)
+
+## ⚠️ Loan & EMI Analysis
+![Loan & EMI Analysis](loan-emi.png)
 
 #AUTHOR
 Swathi
