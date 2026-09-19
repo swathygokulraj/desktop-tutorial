@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-The Bank Customer & Transaction Analysis project is a data analytics
+* The Bank Customer & Transaction Analysis project is a data analytics
 project designed to analyze customer information, banking transactions,
 loan details, EMI payments, credit scores. The project uses Excel and
 Power BI to clean, transform, analyze, and visualize the data.
@@ -20,7 +20,7 @@ slicers to identify important trends and patterns.
 ---
 📂 Dataset
 
-The dataset contains approximately 1,000 records.
+* The dataset contains approximately 1,000 records.
 Columns
 `transaction_id`
 `customer_id`
@@ -204,5 +204,6 @@ EMI
 ## 📊 Dashboard Preview
 
 ![Bank Customer & Transaction Analysis](overview.png)
-author
+![Bank Customer & Transaction Analysis](customer analysis.png)
+Author
 Swathi
