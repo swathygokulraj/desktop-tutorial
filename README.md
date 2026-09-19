@@ -1,6 +1,6 @@
-🏦 Bank Customer & Transaction Analysis
+🏦 BANK CUSTOMER & TRANSACTION ANALYSIS
 
-📌 Project Overview
+📌 PROJECT OVERVIEW
 
 * The Bank Customer & Transaction Analysis project is a data analytics
 project designed to analyze customer information, banking transactions,
@@ -9,7 +9,7 @@ Power BI to clean, transform, analyze, and visualize the data.
 Interactive dashboards are created using KPIs, charts, graphs, and
 slicers to identify important trends and patterns.
 ---
-🎯 Objectives
+🎯 OBJECTIVES
 
 * To analyze bank customer information and transaction data.
 * To identify important trends and patterns in banking transactions.
@@ -18,7 +18,7 @@ slicers to identify important trends and patterns.
 * To create interactive dashboards using Excel and Power BI.
 * To provide meaningful insights for better financial decision-making.
 ---
-📂 Dataset
+📂 DATASETS
 
 * The dataset contains approximately 1,000 records.
 Columns
@@ -42,7 +42,7 @@ Columns
 `kyc_status`
 `transaction_hour`
 ---
-🛠️ Tools & Technologies Used
+🛠️ TOOLS & TECHNOLOGIES USED
 
 * Microsoft excel-Data cleaning, formatting, basic analysis, and data preparation
 * Power query-Data transformation, cleaning, filtering, and handling
@@ -54,7 +54,8 @@ analysis
 * Navigation-Page navigation, buttons, bookmarks, and interactive dashboard
 experience
 ---
-📊 DAX Measures Formula & KPI's (12)
+📊 DAX MEASURES FORMULA & KPI's (12)
+
 🏠 Overview
 ``` dax
 LoanCustomers =
@@ -125,7 +126,7 @@ Average EMI =
 AVERAGE('Sheet1'[emi_amount])
 Loan customers
 ---
-📑 Page Wise Visuals & Slicers
+📑 PAGE WISE VISUALS & SLICERS
 🏠 Overview
 Slicers
 * Account_type
@@ -188,7 +189,7 @@ Scatter charts --- Sum_of credit_score, Sum of EMI amount by
 loan_type  
 * Customers with different credit score have different EMI amounts.
 ---
-🔑 Key Features
+🔑 KEY FEATURES
 
 * Interactive Dashboard with multiple analysis pages
 * KPI Cards for total customers, transactions, transaction amount, and
@@ -201,9 +202,12 @@ EMI
 * Page Navigation Buttons for smooth movement between dashboard pages
 * Geographical Analysis using state-wise customer/transaction data
 ---
-## 📊 Dashboard Preview
+## 📊 DASHBOARD PREVIEW
 
-![Bank Customer & Transaction Analysis](overview.png)
-![Bank Customer & Transaction Analysis](customer analysis.png)
-Author
+[Bank Customer & Transaction Analysis](overview.png)
+[Bank Customer & Transaction Analysis](customer analysis.png)
+[Bank Customer & Transaction Analysis](transaction analysis.png)
+[Bank Customer & Transaction Analysis](loan & EMI analysis.png)
+
+#AUTHOR
 Swathi
