@@ -202,19 +202,16 @@ EMI
 * Page Navigation Buttons for smooth movement between dashboard pages
 * Geographical Analysis using state-wise customer/transaction data
 ---
-## 📊 DASHBOARD PREVIEW
+📊DASHBOARD PREVIEW
 
-## 🏠 Overview
-![Overview](overview.png)
-
-## 👤 Customer Analysis
-![Customer Analysis](customer.png)
-
-## 💳 Transaction Analysis
-![Transaction Analysis](transaction.png)
-
-## ⚠️ Loan & EMI Analysis
-![Loan & EMI Analysis](loan-emi.png)
+🏠 Overview
+(overview.pg.png)
+👤 Customer Analysis
+(customer analysis.pg.png)
+💳 Transaction Analysis
+(transaction analysis.pg.png)
+⚠️ Loan & EMI Analysis
+(loan & EMI analysis.pg.png)
 
 #AUTHOR
 Swathi
